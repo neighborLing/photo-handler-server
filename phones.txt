@@ -1,0 +1,1 @@
+[{"name":"iPhoneXR","width":828,"height":1729},{"name":"iPhone11","width":414,"height":896},{"name":"iPhone12","width":390,"height":844},{"name":"iPhone13","width":400,"height":800},{"name":"","width":null,"height":null}]
